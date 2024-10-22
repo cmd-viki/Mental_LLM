@@ -6,10 +6,10 @@ Transforming ideas into reality! This project is designed to .
 
 ## 📚 Table of Contents
 
-- [✨ Features](#✨-features)
-- [⚙️ Getting Started](#⚙️-getting-started)
-- [🛠️ Available Scripts](#🛠️-available-scripts)
-- [🌐 Deployment](#🌐-deployment)
+- [✨ Features](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#-features)
+- [⚙️ Getting Started](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#%EF%B8%8F-getting-started)
+- [🛠️ Available Scripts](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#%EF%B8%8F-available-scripts)
+- [🌐 Deployment](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#-deployment)
 
 ## ✨ Features
 
