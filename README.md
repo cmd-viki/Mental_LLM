@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # 🚀 UNWIRE
 
-Transforming ideas into reality! This project is designed to .
+Transforming ideas into reality! This project is designed to explore the use of large language models (LLMs) and machine learning algorithms to classify online text for predicting mental health conditions, aiming to develop a preliminary screening tool based on user-generated input. By leveraging BERT and LLaMA APIs, the application seeks to provide accurate predictions and insights, offering a comparative analysis of their effectiveness in mental health prediction technology.
 
 ## 📚 Table of Contents
 
