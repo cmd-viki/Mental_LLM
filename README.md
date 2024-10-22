@@ -6,18 +6,18 @@ Transforming ideas into reality! This project is designed to .
 
 ## 📚 Table of Contents
 
-- [✨ Features](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#-features)
-- [⚙️ Getting Started](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#%EF%B8%8F-getting-started)
-- [🛠️ Available Scripts](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#%EF%B8%8F-available-scripts)
-- [🌐 Deployment](https://github.com/cmd-viki/Mental_LLM/edit/main/README.md#-deployment)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Available Scripts](#available-scripts)
+- [Deployment](#deployment)
 
-## ✨ Features
+## Features
 
 - **Intuitive Interface:** A seamless user experience that enhances engagement.
 - **Real-time Data:** Interactive elements that respond instantly.
 - **Responsive Design:** Looks great on all devices!
   
-## ⚙️ Getting Started
+## Getting Started
 
 Follow these simple steps to get your local copy up and running:
 
@@ -26,7 +26,7 @@ Follow these simple steps to get your local copy up and running:
 - Node.js and npm installed on your machine.
 - Basic understanding of React.
 
-## 🛠️ Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
@@ -58,7 +58,7 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-### 🌐 Deployment
+### Deployment
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
