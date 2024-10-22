@@ -2,14 +2,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # 🚀 UNWIRE
 
-Transforming ideas into reality! This project is designed to [briefly describe the purpose and functionality of your project].
+Transforming ideas into reality! This project is designed to .
 
 ## 📚 Table of Contents
 
-- [✨ Features](#features)
-- [⚙️ Getting Started](#getting-started)
-- [🛠️ Available Scripts](#available-scripts)
-- [🌐 Deployment](#deployment)
+- [✨ Features](#Features)
+- [⚙️ Getting Started](#Getting-Started)
+- [🛠️ Available Scripts](#Available-Scripts)
+- [🌐 Deployment](#Deployment)
 
 ## ✨ Features
 
