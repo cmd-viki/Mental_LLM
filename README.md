@@ -6,10 +6,10 @@ Transforming ideas into reality! This project is designed to .
 
 ## 📚 Table of Contents
 
-- [✨ Features](#Features)
-- [⚙️ Getting Started](#Getting-Started)
-- [🛠️ Available Scripts](#Available-Scripts)
-- [🌐 Deployment](#Deployment)
+- [✨ Features](#✨-Features)
+- [⚙️ Getting Started](#⚙️-Getting-Started)
+- [🛠️ Available Scripts](#🛠️-Available-Scripts)
+- [🌐 Deployment](#🌐-Deployment)
 
 ## ✨ Features
 
